@@ -1,6 +1,5 @@
 
-Build/*
-!Build/**/*.ico
+Build
 Binaries
 DerivedDataCache
 Intermediate
